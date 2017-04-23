@@ -1,0 +1,27 @@
+{
+  "name": "liskpool",
+  "version": "1.0.0",
+  "description": "Distributes mining profit to liskpool stakeholders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-machado/liskpool.git"
+  },
+  "keywords": [
+    "lisk",
+    "lsk",
+    "pool",
+    "multisig",
+    "transfer",
+    "profit"
+  ],
+  "author": "Ugo Michael Axe",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/h-machado/liskpool/issues"
+  },
+  "homepage": "https://github.com/h-machado/liskpool#readme"
+}
