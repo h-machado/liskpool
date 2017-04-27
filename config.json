@@ -1,0 +1,17 @@
+{
+  "lisknode": {
+    "url": "https://testnet.lisk.io",
+    "environment": "testnet"
+  },
+  "poolaccount": {
+    "secret": "",
+    "publicKey": "",
+    "address": "",
+    "distributionPercent": 0.9
+  },
+  "lists": {
+    "members": {
+      "url": "https://liskgdt.net/api/delegates/members/test"
+    }
+  }
+}
