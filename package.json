@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/h-machado/liskpool/issues"
   },
-  "homepage": "https://github.com/h-machado/liskpool#readme"
+  "homepage": "https://github.com/h-machado/liskpool#readme",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "fs": "0.0.1-security",
+    "q": "^1.5.0",
+    "stdio": "^0.2.7",
+    "winston": "^2.3.1"
+  }
 }
